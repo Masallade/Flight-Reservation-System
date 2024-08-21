@@ -1,0 +1,45 @@
+
+=====================================================================================
+ Name       CNIC    Phone Num      Email    Flight     Destination Booked time 
+1    1       1     International               BusinessTue Feb 22 03:25:36 2022
+
+=====================================================================================
+ Name       CNIC       Phone Num         Email          Flight          DestinationClass Booked time 
+dawood    23456655665554       13123123345345        fld@gmail.com      International             Business          BusinessTue Feb 22 03:34:39 2022
+
+=====================================================================================
+ Name       CNIC       Phone Num         Email          Flight          DestinationClass Booked time 
+1    1       1        1      Domestic             econmy          econmyTue Feb 22 03:49:51 2022
+
+=====================================================================================
+ Name       CNIC       Phone Num         Email          Flight          DestinationClass Booked time 
+daaaa    3520245646       12321323        sddadadas      Domestic             econmy          econmyTue Feb 22 03:52:32 2022
+
+=====================================================================================
+ Name       CNIC       Phone Num         Email          Flight          DestinationClass Booked time 
+dawood    352024579565       1232133123        @gmail.com      International             Business          BusinessTue Feb 22 07:24:44 2022
+
+========================================================================================================================================================
+ Name       CNIC       Phone Num         Email          Flight          DestinationClass Booked time 
+ali    302027894562       3214564586        @gmail.com      International             Business          BusinessTue Feb 22 07:52:11 2022
+
+========================================================================================================================================================
+ Name       CNIC       Phone Num         Email          Flight          DestinationClass Booked time 
+121212    25631455       32564784        @gmail.com      International             Business          BusinessTue Feb 22 08:02:38 2022
+
+========================================================================================================================================================
+ Name       CNIC       Phone Num         Email          Flight          DestinationClass Booked time 
+ali    35689234       325647895        @gmail.com      International             econmy          econmyTue Feb 22 08:03:09 2022
+
+================================================================================================================================================================
+ Name       CNIC          Phone Num         Email          Flight          flight ID    Class      Booked time 
+john    4561237895       32564896        @gmail.com      International      1234567     Business   Tue Feb 22 08:05:49 2022
+
+================================================================================================================================================================
+ Name       CNIC          Phone Num         Email          Flight          flight ID    Class      Booked time 
+Dawood    320245678952       1212312323        @gmail.com     International         2334    econmy   Tue Feb 22 16:18:18 2022
+
+================================================================================================================================================================
+ Name       CNIC          Phone Num         Email          Flight          flight ID    Class      Booked time 
+Dawood    35202       -43283645        @gmail.com     International         12    Business   Wed Aug 21 17:26:05 2024
+

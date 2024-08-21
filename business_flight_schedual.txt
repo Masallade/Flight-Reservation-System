@@ -1,0 +1,54 @@
+====================================================================================
+                            Flight ID : 1234
+ DAY      Date    Month     year    Destination     Flight is at
+Tuesday    23       Feb       2022     Qatar Doha      
+====================================================================================
+                            Flight ID : 12
+ DAY      Date    Month      year    Destination     Flight is at
+Monday    21       Feb       2022     Qatar Doha      Mon Feb 21 09:29:22 2022
+
+=====================================================================================
+                            Flight ID : 123456
+ DAY      Date    Month      year    Destination     Flight is at
+Monday    22       Feb       2022     Japan Tokyo      Mon Feb 21 14:26:40 2022
+
+======================================================================================
+                             Flight ID : 123456
+ DAY       Date    Month       year    Destination     Flight is at
+Wedesday    23       Feb       2022     Qatar Doha      Mon Feb 21 14:31:43 2022
+
+=======================================================================================
+                             Flight ID : 12345
+ DAY       Date    Month      year    Destination     Flight is at
+Monday    24       Feb       2022     Qatar Doha      Mon Feb 21 14:37:37 2022
+
+=======================================================================================
+                             Flight ID : 1234567
+ DAY       Date    Month      year    Destination     Flight is at
+Friday    25       Feb       2022     Nepal Kathmandu      Tue Feb 22 01:53:56 2022
+
+=======================================================================================
+                             Flight ID : 121212
+ DAY       Date    Month      year       Destination         Flight is at
+Saturday    25       Feb       2022     Qatar Doha      Tue Feb 22 02:13:59 2022
+
+=======================================================================================
+                             Flight ID : 1123123
+ DAY       Date    Month      year    Destination     Flight is at
+Monday    26       Feb       2022     Nepal Kathmandu      Tue Feb 22 02:30:41 2022
+
+=======================================================================================
+                             Flight ID : 123244
+ DAY       Date    Month      year    Destination     Flight is at
+Tuesday    22       Feb       2022     Australia Melbourne      Tue Feb 22 07:28:42 2022
+
+=======================================================================================
+                             Flight ID : 2334
+ DAY       Date    Month       year        Destination         Flight is at
+Wedesday    22       Feb       2022     Russia Moscow      Tue Feb 22 16:15:33 2022
+
+=======================================================================================
+                             Flight ID : 11111
+ DAY       Date    Month       year        Destination         Flight is at
+Monday    24       Feb       2022     Turkey Istanbol      Wed Aug 21 17:30:48 2024
+
